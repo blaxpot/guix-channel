@@ -13,7 +13,7 @@
         (method git-fetch)
         (uri (git-reference
           (url "https://github.com/blaxpot/blax-st.git")
-          (commit "2f6e597ed871cff91c627850d03152cae5f45779")))
+          (commit "3ab2acb97a95d7608aec030af836c9d3ad713720")))
         (sha256
-          (base32 "009psvmc77v6hfa96wln0r8vlsi5y4nzs7iv9ws6f98wrdjgv5yh"))))))
+          (base32 "1qc7wajz90zgys3p7dfp881wi8rla0q2bk4ycrv81x01y5lc8h5f"))))))
 
