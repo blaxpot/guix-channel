@@ -1,0 +1,7 @@
+(authorizations
+  (version 0)
+  (("590F 831D 34D8 AD34 E71E  7EBA 0FAC 527E E829 C66F"
+    (name "blaxpot-master"))
+   ("72F1 3159 DA81 71F7 F246  B5BB B063 4F93 252E BF15"
+    (name "blaxpot-signing"))))
+
